@@ -1,6 +1,5 @@
-### Hello Folks!! I'm Samrat  👋
-
-## I'm a final year undergrad, Full Stack Developer and a Problem Solver..
+<h1 align="center">Hello Folks!! 👋, I am Samrat</h1>
+<h3 align="center">I'm a final year IT Undergrad and a Full Stack Developer</h3>
 
 - 🌱 I’m currently learning everything of Full Stack Development as of now🤣
 - 👯 I’m looking to indulge myself more in Development.

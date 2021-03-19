@@ -3,7 +3,7 @@
 
 - 🧑🏻‍💻 Open to Software Engineering roles | Grad of 2021. 
 
-- ✌🏻 I am from Jalpaiguri Government Enginnering College.
+- ✌🏻 I am from Jalpaiguri Government Enginnering College(Department Of Information Technology).
 
 - 🌱 I’m currently learning everything of Full Stack Development as of now🤣
 

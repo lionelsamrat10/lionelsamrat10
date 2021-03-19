@@ -8,7 +8,7 @@
 
 
 ### Connect with me:
-<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />https://www.linkedin.com/in/samrat-mitra-5178a2151/
+<img align="left" alt="lionelsamrat10 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />https://www.linkedin.com/in/samrat-mitra-5178a2151/
 
 <br />
 
@@ -32,5 +32,5 @@
 <br />
 <br />
 
-
+<h3>My Github Stats(Though its nothing fancy!! 🤣)</h3>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=lionelsamrat10&show_icons=true" alt="lionelsamrat10" />

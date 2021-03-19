@@ -1,10 +1,17 @@
 <h1 align="center">Hello Folks!! 👋, I am Samrat</h1>
 <h3 align="center">I'm a final year IT Undergrad and a Full Stack Developer</h3>
 
+- 🧑🏻‍💻 Open to Software Engineering roles | Grad of 2021. 
+
 - 🌱 I’m currently learning everything of Full Stack Development as of now🤣
+
 - 👯 I’m looking to indulge myself more in Development.
+
 - 🥅 2021 Goals: Contribute to some Open Source projects and be a successful Developer.
+
 - ⚡ Fun fact: I am a big fan of FC Barcelona, Especially Lionel Messi. 
+
+- 📫 Reach out to me - **samrat.jpg338@gmail.com**
 
 
 ### Connect with me:

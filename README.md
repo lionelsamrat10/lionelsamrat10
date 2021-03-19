@@ -9,6 +9,8 @@
 
 - 👯 I’m looking to indulge myself more in Development.
 
+- 🔰 Do have a look on my Research Paper - https://link.springer.com/chapter/10.1007/978-981-15-7834-2_58
+
 - 🥅 2021 Goals: Contribute to some Open Source projects and be a successful Developer.
 
 - ⚡ Fun fact: I am a big fan of FC Barcelona, Especially Lionel Messi. 

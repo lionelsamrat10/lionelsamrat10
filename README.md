@@ -1,5 +1,5 @@
 <h1 align="center">Hello Folks!! 👋, I am Samrat</h1>
-<h3 align="center">I'm a final year IT Undergrad and a Full Stack Developer and a technocrat</h3>
+<h3 align="center">I'm a final year IT Undergrad, a Full Stack Developer and a technocrat</h3>
 
 - 🧑🏻‍💻 Open to Software Engineering roles | Grad of 2021. 
 

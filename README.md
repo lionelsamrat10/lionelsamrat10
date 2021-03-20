@@ -5,7 +5,7 @@
 
 - ✌🏻 I am from Jalpaiguri Government Enginnering College(Department Of Information Technology).
 
-- 🌱 I’m currently learning everything of Full Stack Development as of now🤣
+- 🌱 I’m learning everything of Full Stack Development as of now🤣
 
 - 👯 I’m looking to indulge myself more in Development.
 

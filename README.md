@@ -7,7 +7,7 @@
 
 - 🌱 I’m learning everything of Full Stack Development as of now🤣
 
-- 👯 I’m looking to indulge myself more in Development.
+- 👯 I’m looking to indulge myself more in Research and Development.
 
 - 🔰 Do have a look on my Research Paper - https://link.springer.com/chapter/10.1007/978-981-15-7834-2_58
 

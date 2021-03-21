@@ -50,3 +50,5 @@
 <a href="https://github.com/lionelsamrat10">
   <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=lionelsamrat10&layout=compact&theme=radical" />
 </a>
+
+<img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />

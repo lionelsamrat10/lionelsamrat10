@@ -13,7 +13,7 @@
 
 - 🥅 2021 Goals: Contribute to some Open Source projects and be a successful Developer.
 
-- ⚡ Fun fact: I am a big fan of FC Barcelona, Especially Lionel Messi. 
+- ⚡ Fun fact: I am a big fan of FC Barcelona, especially Lionel Messi. 
 
 - 📫 Reach out to me - **samrat.jpg338@gmail.com**
 

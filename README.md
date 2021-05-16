@@ -47,13 +47,10 @@
 
 <h3>My Github Stats(Though its nothing fancy!! 🤣)</h3>
 
-<div>
-  <img align="center" src="https://github-readme-stats-codestackr.vercel.app/api?username=lionelsamrat10&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" />
-
+<img align="center" src="https://github-readme-stats-codestackr.vercel.app/api?username=lionelsamrat10&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" />
 
 <a href="https://github.com/lionelsamrat10">
-  <img align="right" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=lionelsamrat10&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=lionelsamrat10&layout=compact&theme=radical" />
 </a>
 
-</div>
 <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />

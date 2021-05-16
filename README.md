@@ -46,7 +46,7 @@
 <br />
 
 <h3>My Github Stats(Though its nothing fancy!! 🤣)</h3>
-<img align="left" src="https://github-readme-stats-codestackr.vercel.app/api?username=lionelsamrat10&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" />
+<img align="center" src="https://github-readme-stats-codestackr.vercel.app/api?username=lionelsamrat10&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" />
 
 
 <a href="https://github.com/lionelsamrat10">

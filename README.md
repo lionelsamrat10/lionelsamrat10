@@ -17,6 +17,8 @@
 
 - 📫 Reach out to me - **samrat.jpg338@gmail.com**
 
+<img alt="gif" align="right" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif"/>
+
 
 ### Connect with me:
 <img align="left" alt="lionelsamrat10 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />https://www.linkedin.com/in/samrat-mitra-5178a2151/

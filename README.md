@@ -52,5 +52,7 @@
 <a href="https://github.com/lionelsamrat10">
   <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=lionelsamrat10&layout=compact&theme=radical" />
 </a>
-
+<a href="https://github.com/lionelsamrat10">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=lionelsamrat10&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&background=00000000&border=00000000"/>
+</a>
 <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />

@@ -47,12 +47,12 @@
 
 <h3>My Github Stats(Though its nothing fancy!! 🤣)</h3>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=lionelsamrat10&show_icons=true&theme=radical" />
+<p align="center">
+  <a href="#">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lionelsamrat10&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&bg_color=00000000&border_color=00000000"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=lionelsamrat10&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&hide=css,html&layout=compact&bg_color=00000000&border_color=00000000&langs_count=6"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=lionelsamrat10&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&background=00000000&border=00000000"/>
+  </a>
+</p>
 
-<a href="https://github.com/lionelsamrat10">
-  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=lionelsamrat10&layout=compact&theme=radical" />
-</a>
-<a href="https://github.com/lionelsamrat10">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=lionelsamrat10&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&background=00000000&border=00000000"/>
-</a>
 <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />

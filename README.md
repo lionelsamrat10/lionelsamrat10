@@ -48,7 +48,7 @@
 <br />
 
 <p align="center">
-  <h3>My Github Stats(Though its nothing fancy!! 🤣)</h3>
+  <h3 text-align="center">My Github Stats(Though its nothing fancy!! 🤣)</h3>
   <a href="https://github.com/lionelsamrat10">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lionelsamrat10&count_private=true&show_icons=true&hide_border=true&theme=react"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=lionelsamrat10&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&hide=css,html&layout=compact&bg_color=00000000&border_color=00000000&langs_count=6"/>

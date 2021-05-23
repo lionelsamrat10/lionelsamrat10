@@ -47,8 +47,6 @@
 <br />
 <br />
 
-<h3>My Github Stats(Though its nothing fancy!! 🤣)</h3>
-
 <p align="center">
   <h3>My Github Stats(Though its nothing fancy!! 🤣)</h3>
   <a href="https://github.com/lionelsamrat10">

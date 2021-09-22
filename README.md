@@ -1,5 +1,5 @@
 <h1 align="center">Hello Folks!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Samrat Mitra (aka Sam)</h1>
-<h3 align="center">I'm a final year IT Undergrad, a Full Stack Developer and a technocrat</h3>
+<h3 align="center">I'm a Full Stack Developer and an aspiring Data Scientist</h3>
 
 - 🧑🏻‍💻 Open to Software Engineering roles | Grad of 2021. 
 

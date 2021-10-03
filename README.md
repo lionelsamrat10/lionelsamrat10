@@ -1,4 +1,4 @@
-<h1 align="center">Hello Folks!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Samrat Mitra (aka Sam)</h1>
+<h1 align="center">Hello Folks!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Samrat (aka Sam)</h1>
 <h3 align="center">I'm a Full Stack Developer and an aspiring Data Scientist</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lionelsamrat10" alt="trophy" /></a> </p>

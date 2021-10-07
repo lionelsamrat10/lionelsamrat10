@@ -3,6 +3,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lionelsamrat10" alt="trophy" /></a> </p>
 
+<h2 align="center">🔥 About Me 🔥</h2>
 - 🧑🏻‍💻 Open to Software Engineering roles | Grad of 2021. 
 - 🧑 My Developer Portfolio: https://lionelsamrat10.github.io/
 - ✌🏻 I am from Jalpaiguri Government Enginnering College(Department Of Information Technology).

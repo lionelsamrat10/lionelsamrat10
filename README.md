@@ -63,6 +63,18 @@
       </a>
       <br>Git
     </td>
+    <td align="center" width="96">
+      <a href="https://azure.microsoft.com/" >
+        <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="48" height="48" alt="Azure" />
+      </a>
+      <br>Azure
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.docker.com/" >
+        <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="48" height="48" alt="Docker" />
+      </a>
+      <br>Docker
+    </td>
   </tr>
   <tr>
     <td align="center" width="96"> 

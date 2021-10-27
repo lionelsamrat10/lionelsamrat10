@@ -11,7 +11,7 @@
 
 - ✌🏻 I have graduated from Jalpaiguri Government Enginnering College(Department Of Information Technology).
 
-- 🌱 I’m learning everything of Full Stack Development as of now🤣
+- 🌱 I’m learning Deep Learning now.
 
 - 👯 I’m looking to indulge myself more in Research and Development.
 

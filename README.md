@@ -13,26 +13,16 @@
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🧑🏻‍💻 Open to Software Engineering roles | Grad of 2021. 
-
 - 🧑 My Developer Portfolio: https://lionelsamrat10.github.io/
-
 - ✌🏻 I have graduated from Jalpaiguri Government Enginnering College(Department Of Information Technology).
-
 - 🌱 I’m learning Deep Learning now.
-
 - 👯 I’m looking to indulge myself more in Research and Development.
-
 - 🔰 Do have a look on my Research Paper - https://link.springer.com/chapter/10.1007/978-981-15-7834-2_58
-
 - 🥅 2021 Goals: Contribute to some Open Source projects and be a successful Developer.
-
 - ⚡ Fun fact: I am a big fan of FC Barcelona, especially Lionel Messi. 
-
 - 📫 Reach out to me - **samrat.jpg338@gmail.com**
-
 - 🥅 Motto of life: One day, you'll leave this world behind. So, live a life you'll remember.
 
-<img alt="gif" width="50%" align="center" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
 
 
 ### Connect with me:

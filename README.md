@@ -32,7 +32,7 @@
 
 - 🥅 Motto of life: One day, you'll leave this world behind. So, live a life you'll remember.
 
-<p style="text-align:center"><img alt="gif" align="center" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif"></p>
+<img alt="gif" width="50%" align="center" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
 
 
 ### Connect with me:

@@ -1,3 +1,4 @@
+![](https://raw.githubusercontent.com/lionelsamrat10/lionelsamrat10/main/header_.png)
 <h1 align="center">Hello Folks!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Samrat (aka Sam)</h1>
 <h3 align="center">I'm a Full Stack Developer and an aspiring Data Scientist</h3>
 

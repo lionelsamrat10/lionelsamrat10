@@ -155,7 +155,7 @@
   <br>
   <img src="https://activity-graph.herokuapp.com/graph?username=lionelsamrat10&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" alt="github activity graph"/>
 </p>
-
+![Github Stats](https://github.com/lionelsamrat10/lionelsamrat10/blob/main/github-metrics.svg)
 <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
 
 ![](https://raw.githubusercontent.com/lionelsamrat10/lionelsamrat10/main/footer.png)

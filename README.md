@@ -158,6 +158,14 @@
 
 ![Github Stats](https://raw.githubusercontent.com/lionelsamrat10/lionelsamrat10/82591f810de6d5a525bcd5f9d5dd654038303d52/github-metrics.svg)
 
+### :point_down: GitPic 
+
+![lionelsamrat10](https://socialify.git.ci/lionelsamrat10/lionelsamrat10/image?description=1&language=1&name=1&owner=1&pattern=Solid&theme=Dark)
+
+<div align="center">
+  <img width="15%" src="https://visitor-badge.glitch.me/badge?page_id=lionelsamrat10" />
+</div>
+
 <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
 
 ![](https://raw.githubusercontent.com/lionelsamrat10/lionelsamrat10/main/footer.png)

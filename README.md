@@ -6,9 +6,7 @@
 ![focus](https://img.shields.io/badge/focus-MachineLearning-brightgreen)
 ![living](https://img.shields.io/badge/living-Jalpaiguri-3c9)
 
-### :point_down: GitPic 
 
-![lionelsamrat10](https://socialify.git.ci/lionelsamrat10/lionelsamrat10/image?description=1&language=1&name=1&owner=1&pattern=Solid&theme=Dark)
 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lionelsamrat10&theme=monokai" alt="trophy" /></a> </p>
@@ -163,7 +161,9 @@
 
 ![Github Stats](https://raw.githubusercontent.com/lionelsamrat10/lionelsamrat10/82591f810de6d5a525bcd5f9d5dd654038303d52/github-metrics.svg)
 
+### :point_down: GitPic 
 
+![lionelsamrat10](https://socialify.git.ci/lionelsamrat10/lionelsamrat10/image?description=1&language=1&name=1&owner=1&pattern=Solid&theme=Dark)
 <div align="center">
   <img width="15%" src="https://visitor-badge.glitch.me/badge?page_id=lionelsamrat10" />
 </div>

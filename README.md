@@ -16,7 +16,6 @@
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🧑🏻‍💻 Open to Software Engineering roles | Grad of 2021. 
-- 🧑 My Developer Portfolio: https://lionelsamrat10.github.io/
 - ✌🏻 I have graduated from Jalpaiguri Government Enginnering College(Department Of Information Technology).
 - 🌱 I’m learning Deep Learning now.
 - 👯 I’m looking to indulge myself more in Research and Development.

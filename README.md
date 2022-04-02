@@ -3,7 +3,7 @@
 <h3 align="center">I'm a Full Stack Developer</h3>
 
 ![age](https://img.shields.io/badge/age-22-blue)
-![focus](https://img.shields.io/badge/focus-SoftwareDevelopment-brightgreen)
+![focus](https://img.shields.io/badge/focus-SoftwareDevelopment-brightgreen)   
 ![living](https://img.shields.io/badge/living-Jalpaiguri-3c9)
 
 

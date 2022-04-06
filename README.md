@@ -7,7 +7,7 @@
 ![living](https://img.shields.io/badge/living-Jalpaiguri-3c9)
 
 
-    
+       
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lionelsamrat10&theme=monokai" alt="trophy" /></a> </p>
 
